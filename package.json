@@ -4,7 +4,7 @@
   "description": "This is a test project to learn Node",
   "main": "index.html",
   "scripts": {
-  	"start": "npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
@@ -20,5 +20,8 @@
   "homepage": "https://github.com/lsolanki/git-test-win#readme",
   "devDependencies": {
     "lite-server": "^2.4.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0"
   }
 }
